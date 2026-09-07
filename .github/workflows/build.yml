@@ -1,10 +1,10 @@
 name: Build VSCP library on Linux
 
 on:
-  push:
-    branches: [ master, main, development ]
-  pull_request:
-    branches: [ master, main, development ]
+  # push:
+  #   branches: [ master, main, development ]
+  # pull_request:
+  #   branches: [ master, main, development ]
 
 permissions:
   contents: read
